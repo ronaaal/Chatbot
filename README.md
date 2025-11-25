@@ -31,14 +31,10 @@ Ejemplo orientativo (no es definitivo — usar el snippet real de Voiceflow):
 <script src="https://cdn.voiceflow.com/widget/bundle.js"></script>
 ```
 
-3. Guarda los cambios y recarga la página. Presiona el botón flotante (abajo a la derecha) para abrir el chat; el widget se cargará cuando se abra por primera vez.
-
-Notas y sugerencias
-- Si prefieres que el widget se cargue automáticamente al abrir la página, mueve el snippet de Voiceflow fuera del `#chatbot` y colócalo justo antes del cierre de `</body>`.
-- Para despliegue en producción, puedes publicar los archivos en GitHub Pages, Netlify o cualquier hosting estático.
 
 ¿Quieres que:
 - Añada el snippet real si me das el código de Voiceflow?
 - Genere una versión con SEO meta tags y favicon?
 - Prepare un deploy automático a GitHub Pages? 
+
 
